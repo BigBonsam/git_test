@@ -1,0 +1,3 @@
+Hello there
+this is my first try project using git and Odin.
+I'm really enjoying myself.
